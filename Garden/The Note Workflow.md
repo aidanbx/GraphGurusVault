@@ -21,7 +21,7 @@ F --> S
 C --> S
 ```
 
-## Tags
+## Status Tags
 ---
 
 Tags indicate the status of a note and distinguishes between garden (ideas, work), library (references, notes), and daily (meetings etc.).

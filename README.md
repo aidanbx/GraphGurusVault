@@ -39,7 +39,7 @@
 # Tags, Topics, Etc.
 ![[Note Organization Schema]]
 
----
+
 **Status:**
 #🌱 
 

@@ -13,9 +13,10 @@
 - Core Plugins -> Templates -> Template Folder Location
 	- /bin/Templates
 	- Don't change date format (YYYY-MM-DD)
-- Core Plugins -> Daily Notes -> New File Location
-	- Daily
+- Core Plugins -> Daily Notes 
+	- -> New File Location : Daily
 	- Don't change date format (YYYY-MM-DD)
+	- -> Template file location : /bin/Tempaltes/Daily Note Template
 
 
 ## Recommended Plugins:

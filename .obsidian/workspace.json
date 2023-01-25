@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "f302b2544aed1a81",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "acdcefb6f1aebeae",
             "type": "leaf",
             "state": {
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Garden/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Garden/Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Garden/Project Ideas.md"
+              }
             }
           }
         ]
@@ -175,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f302b2544aed1a81",
+  "active": "acdcefb6f1aebeae",
   "lastOpenFiles": [
+    "README.md",
     "Garden/Deadlines Etc..md",
     "Garden/Papers to Read.md",
-    "README.md",
     "Garden/Project Ideas.md",
     "Garden/Closed List.md",
     "Garden/Note Organization Schema.md",

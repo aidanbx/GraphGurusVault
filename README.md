@@ -30,7 +30,11 @@
 - Option + d : Open daily note
 	- Option + s/f: Open prev/next daily note
 
- 
+
+# Getting Started Contributing
+
+![[The Note Workflow]]
+
 ---
 **Status:**
 #🌱 

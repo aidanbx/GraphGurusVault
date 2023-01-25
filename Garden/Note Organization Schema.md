@@ -5,7 +5,7 @@ When creating a new note, first insert a template (cmd/ctrl + p -> insert templa
 
 
 ## Tags
-Rather than using # tags to 
+Rather than using # tags to organize notes, use internal links to non-existent files. 
 
 ---
 **Status:**

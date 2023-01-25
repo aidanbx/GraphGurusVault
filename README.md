@@ -110,10 +110,13 @@ Tags indicate the status of a note and distinguishes between garden (ideas, work
 ---
 **Status:**
 #🌱 
+
 **Contributors:**
 [[Aidan Barbieux]]
+
 **Tags:**
 [[Meta]], [[Overhead]]
+
 **Links:**
 
 **References:**

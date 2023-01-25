@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "26a18a083686e131",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4826c5686bcfa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581a572a128dd7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/2023-01-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93845b15480ba628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bin/Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8eb1280c553cc22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52a9df5c166904d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c72be7045c517903",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a40fab69def8050b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#🪴",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3820640682eba1ab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1bd955c24ebd20b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca4539d3a5d00b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "886d201a36fa9791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Garden/2023-01-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1cc064ed8119482",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Garden/2023-01-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "725d0a127400d1ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddcff93db6a4e56d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Garden/2023-01-24.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "581a572a128dd7c6",
+  "lastOpenFiles": [
+    "bin/Templates/Daily Note Template.md",
+    "Garden/2023-01-24.md",
+    "Garden/Deadlines Etc..md",
+    "Garden/Project Ideas.md",
+    "Garden/Papers to Read.md",
+    "Garden/Closed List.md",
+    "README.md",
+    "bin/Templates/New Note Template.md",
+    "bin/Templates/Library Doc Template.md"
+  ]
+}

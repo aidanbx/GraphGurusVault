@@ -1,3 +1,4 @@
 {
-  "folder": "Daily"
+  "folder": "Daily",
+  "template": "bin/Templates/Daily Note Template"
 }

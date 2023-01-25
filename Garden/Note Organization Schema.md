@@ -5,9 +5,8 @@ When creating a new note, first insert a template (cmd/ctrl + p -> insert templa
 
 
 ## Tags
-Rather than using # tags to organize notes, use internal links to non-existent files. This way, if enough notes point to a topic area, a note can be created with that name that maps out the subject. This allso allows for a better organization of the knowledge graph as it is easy to remove [[no]]
-
----
+Rather than using # tags to organize notes, use internal links to non-existent files. This way, if enough notes point to a topic area, a note can be created with that name that maps out the subject. This allso allows for a better organization of the knowledge graph as it is easy to add/remove [[The Note Workflow#Status Tags|Status Tags]] and non-existent notes. 
+--
 **Status:**
 #🌱 
 

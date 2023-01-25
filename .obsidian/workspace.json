@@ -23,12 +23,8 @@
             "id": "f302b2544aed1a81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Note Organization Schema.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Note Organization Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Note Organization Schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Garden/Note Organization Schema.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +153,8 @@
   },
   "active": "f302b2544aed1a81",
   "lastOpenFiles": [
-    "README.md",
     "Garden/Note Organization Schema.md",
+    "README.md",
     "Daily/2023-01-25.md",
     "bin/Templates/Daily Note Template.md",
     "Garden/The Note Workflow.md",

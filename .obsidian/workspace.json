@@ -11,8 +11,12 @@
             "id": "581a572a128dd7c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Garden/The Note Workflow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Garden/The Note Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Garden/The Note Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Garden/The Note Workflow.md"
+              }
             }
           }
         ]
@@ -152,11 +160,11 @@
   },
   "active": "581a572a128dd7c6",
   "lastOpenFiles": [
-    "Garden/Aidan Barbieux.md",
     "README.md",
+    "Garden/Aidan Barbieux.md",
     "bin/Templates/Library Doc Template.md",
     "bin/Templates/New Note Template.md",
-    "Garden/2023-01-24.md",
+    "Daily/2023-01-24.md",
     "bin/Templates/Daily Note Template.md",
     "Garden/Deadlines Etc..md",
     "Garden/Project Ideas.md",

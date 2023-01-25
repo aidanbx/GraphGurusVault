@@ -36,6 +36,9 @@
 
 ![[The Note Workflow]]
 
+# Tags, Topics, Etc.
+![[Note Organization Schema]]
+
 ---
 **Status:**
 #🌱 

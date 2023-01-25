@@ -26,6 +26,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "acdcefb6f1aebeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Project Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d42785b48b778738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Closed List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -153,15 +177,15 @@
   },
   "active": "f302b2544aed1a81",
   "lastOpenFiles": [
-    "Garden/Note Organization Schema.md",
+    "Garden/Deadlines Etc..md",
+    "Garden/Papers to Read.md",
     "README.md",
+    "Garden/Project Ideas.md",
+    "Garden/Closed List.md",
+    "Garden/Note Organization Schema.md",
     "Daily/2023-01-25.md",
     "bin/Templates/Daily Note Template.md",
     "Garden/The Note Workflow.md",
-    "Garden/Aidan Barbieux.md",
-    "bin/Templates/Library Doc Template.md",
-    "bin/Templates/New Note Template.md",
-    "Daily/2023-01-24.md",
-    "Garden/Deadlines Etc..md"
+    "Garden/Aidan Barbieux.md"
   ]
 }

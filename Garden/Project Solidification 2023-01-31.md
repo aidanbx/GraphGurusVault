@@ -39,6 +39,8 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- What ways are there to connect topical clusters?
 	- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffic views in google maps)
 		- If 2D removes too much information this could be a backup.
+	- How much information does TSNE lose? Does it work well with hierarchical clustering
+	- 
 
 
 

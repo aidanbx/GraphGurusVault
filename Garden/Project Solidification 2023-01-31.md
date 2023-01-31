@@ -35,8 +35,10 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- What else should go here?
 - Trevor (Absent): Embedding analysis, Obsidian Development
 	- Obsidian Development
+		- How do we develop in 
 		- Can we utilize existing map plugins to display this?
-			- Like fanta
+			- Like fantasy maps or google maps, not KGs
+		- Perhaps there is a KG visualizer that is useful?
 		- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffic views in google maps)
 			- If 2D removes too much information this could be a backup.
 		- Could we have a minimap while within a note?

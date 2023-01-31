@@ -58,3 +58,12 @@
 3.  Creating a complete pipeline to turn a Obsidian Vault into a semantic spatial visualization
     -   Evaluate the entire process, from the API connection to the final visualization
     -   Ensure that the final product is a complete pipeline that transforms an Obsidian vault into a semantic spatial visualization.
+
+ 
+---
+**Status::** #🌲 
+**Contributors::** [[Aidan Barbieux]], [[Kaanan Kharwa]], [[Kenny Lau]], [[Erik Luu]]
+**Tags::** [[Overhead]], [[Assignments]]
+**Links::** 
+**References::**
+Created:: 2023-01-31 14:08

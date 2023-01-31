@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Closed List.md",
+                "file": "Garden/Features and Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Closed List.md",
+                "file": "Garden/Features and Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Closed List.md",
+                "file": "Garden/Features and Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Closed List.md"
+                "file": "Garden/Features and Requirements.md"
               }
             }
           }
@@ -184,6 +184,8 @@
   },
   "active": "581a572a128dd7c6",
   "lastOpenFiles": [
+    "Garden/Deadlines Etc..md",
+    "Garden/Closed List.md",
     "Garden/Aidan Barbieux.md",
     "README.md",
     "bin/Templates/Daily Note Template.md",
@@ -191,8 +193,6 @@
     "bin/Templates/Library Doc Template.md",
     "Garden/Project Solidification 2023-01-31.md",
     "Garden/Features and Requirements.md",
-    "Garden/OpenAI Cookbook Example.md",
-    "Garden/Project Ideas.md",
-    "Garden/Closed List.md"
+    "Garden/OpenAI Cookbook Example.md"
   ]
 }

@@ -29,8 +29,11 @@ So far we have solidified the project a bit and assigned individual focuses.
 - Erik: System integration
 	- How do we communicate between OpenAI, Kanaans analysis, and the obisdian plugin?
 	- How does obsidian deal with this?
-	- How d
-	- Implement the portion of the 
+		- Servers?
+	- How do you communicate outside of OpenAI?
+	- Implement this portion of the plug-in (or a separate file/server if necessary)
+	- What else should go here?
+- Trevor: 
 
 
 

@@ -22,7 +22,11 @@ So far we have solidified the project a bit and assigned individual focuses.
 		- Will this work for OpenAI embeddings?
 	- [[OpenAI Cookbook Example]]
 		- [Here is a Github of OpenAI example notebooks, this one clusters embeddings and generates description](https://github.com/openai/openai-cookbook/blob/main/examples/Clustering.ipynb)
-	- Display these clusters in 2D space that is static, ensure it is s
+	- Display these clusters in 2D space that is static, ensure it is stable when new embeddings are added
+	- Implement this pipe
+- Erik: System integration
+	- How do we communicate between OpenAI, Kanaans analysis, and the obisdian plugin?
+	- Implement the portion of the 
 
 
 

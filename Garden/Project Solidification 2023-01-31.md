@@ -19,6 +19,10 @@ So far we have solidified the project a bit and assigned individual focuses.
 - Kaanan: Clustering/Visualization
 	- Find example embeddings before OpenAI is set up
 	- Set up a pipeline for clustering these embeddings hierarchically
+		- Will this work for OpenAI embeddings?
+	- [[OpenAI Cookbook Example]]
+		- [Here is a Github of OpenAI example notebooks, this one clusters embeddings and generates description](https://github.com/openai/openai-cookbook/blob/main/examples/Clustering.ipynb)
+	- Display these clusters in 2D space that is static, ensure it is s
 
 
 

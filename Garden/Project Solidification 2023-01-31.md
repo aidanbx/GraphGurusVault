@@ -33,14 +33,16 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- How do you communicate outside of OpenAI?
 	- Implement this portion of the plug-in (or a separate file/server if necessary)
 	- What else should go here?
-- Trevor: (Absent) Embedding analysis, other features
-	- If these embeddings are in high dimensional space, how can we retain their organization when projecting onto a 2D plane?
-	- Could these embeddings be used for a semantic search function?
-	- What ways are there to connect topical clusters?
+- Trevor (Absent): Embedding analysis, Obsidian Development
+	- Embeddings stu
+		- If these embeddings are in high dimensional space, how can we retain their organization when projecting onto a 2D plane?
+		- Could these embeddings be used for a semantic search function?
+		- What ways are there to connect topical clusters?
+		- How much information does TSNE lose? Does it work well with hierarchical clustering
 	- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffic views in google maps)
 		- If 2D removes too much information this could be a backup.
-	- How much information does TSNE lose? Does it work well with hierarchical clustering
-	- 
+	-
+- Miko (Absent): Visualization, Obsidi
 
 
 

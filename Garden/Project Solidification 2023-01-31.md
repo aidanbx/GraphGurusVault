@@ -56,11 +56,12 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- Obsidian Development
 		- How can we ensure that all of this isn't ridiculously slow?
 			- Caching, file organization, etc.
-		- What other parts of the plugin are we neglecting (look at Trevor's section)
 		- How do we manage an Obisidan plugin? 
 			- Can we have one in Beta?
 		- Can we have human trials/testers evaluate our work?
-			- 
+		- What other parts of the plugin are we neglecting (look at Trevor's section)
+	- Visualization (PCG)
+		- If we have a 2D representation of the embeddings, how do we display this as an interactive map? (Collab with t)
 
 
 

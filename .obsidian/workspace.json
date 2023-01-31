@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Project Solidification 2023-01-31.md",
+                "file": "bin/Templates/Library Doc Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1bd955c24ebd20b7",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Features and Requirements.md",
+                "file": "bin/Templates/Library Doc Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Features and Requirements.md",
+                "file": "bin/Templates/Library Doc Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Features and Requirements.md"
+                "file": "bin/Templates/Library Doc Template.md"
               }
             }
           }
@@ -204,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0549c789b0c71a5",
+  "active": "30cdf6dc8fa562ed",
   "lastOpenFiles": [
+    "bin/Templates/New Note Template.md",
+    "bin/Templates/Library Doc Template.md",
+    "bin/Templates/Daily Note Template.md",
     "Garden/Project Solidification 2023-01-31.md",
+    "Garden/Features and Requirements.md",
     "Garden/OpenAI Cookbook Example.md",
     "Garden/Project Ideas.md",
     "README.md",
     "Garden/Closed List.md",
-    "Garden/Deadlines Etc..md",
-    "Garden/Papers to Read.md",
-    "Garden/Note Organization Schema.md",
-    "Daily/2023-01-25.md",
-    "bin/Templates/Daily Note Template.md"
+    "Garden/Deadlines Etc..md"
   ]
 }

@@ -1,13 +1,8 @@
  
 ---
-**Status:**
-#🗄 
-
-**Tags:**
-
-**Created:** {{date}}
-
-**Links:**
-
-**References:**
+**Status::** #🗄 
+**Tags::**
+**Created:** {{date}} {{time}}
+**Links::**
+**References::**
 

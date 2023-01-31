@@ -55,7 +55,12 @@ So far we have solidified the project a bit and assigned individual focuses.
 - Miko (Absent): Visualization, Obsidian Development
 	- Obsidian Development
 		- How can we ensure that all of this isn't ridiculously slow?
-			- Caching, file organization 
+			- Caching, file organization, etc.
+		- What other parts of the plugin are we neglecting (look at Trevor's section)
+		- How do we manage an Obisidan plugin? 
+			- Can we have one in Beta?
+		- Can we have human trials/testers evaluate our work?
+			- 
 
 
 

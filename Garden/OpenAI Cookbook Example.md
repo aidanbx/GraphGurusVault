@@ -6,7 +6,7 @@
 #🗄 
 
 **Tags:**
-[[OpenAI]], [[Embeddings]], [[Examples]]
+[[OpenAI]], [[Embeddings]], [[Examples]], [[Clustering]]
 **Created:** 2023-01-31
 
 **Links:**

@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1bd955c24ebd20b7",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md",
+                "file": "Garden/Project Solidification 2023-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md",
+                "file": "Garden/Project Solidification 2023-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md"
+                "file": "Garden/Project Solidification 2023-01-31.md"
               }
             }
           }
@@ -191,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f33bc2085afd0bd8",
+  "active": "30cdf6dc8fa562ed",
   "lastOpenFiles": [
-    "Garden/Project Solidification 2023-01-31.md",
     "Garden/OpenAI Cookbook Example.md",
+    "Garden/Project Solidification 2023-01-31.md",
     "README.md",
     "Garden/Closed List.md",
     "Garden/Project Ideas.md",

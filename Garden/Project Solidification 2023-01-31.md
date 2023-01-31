@@ -7,7 +7,12 @@ So far we have solidified the project a bit and assigned individual focuses.
 - **Example:** An pink island with sharp edges represents daily life notes, on it is a peninsula that is more orange and round which contains content recommendations (films etc). On the other side of the map there is a large land mass where scientific notes are, within it are countries, regions, etc. which are scientific fields.
 	- The spatial organization is determined by OpenAIs embeddings, on which a sort of hierarchical clustering is performed.
 	- The shapes and colors are procedurally generated using techniques from game design (future work)
-- 
+
+## Individual Focuses:
+- Kenny
+	- Work on getting an OpenAI account working
+	- Figure out what 
+
 
 
  

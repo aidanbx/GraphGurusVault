@@ -52,10 +52,10 @@ So far we have solidified the project a bit and assigned individual focuses.
 		- Could these embeddings be used for a semantic search function?
 		- What ways are there to connect topical clusters?
 		- How much information does TSNE lose? Does it work well with hierarchical clustering
-	
-
-	-
-- Miko (Absent): Visualization, Obsidi
+- Miko (Absent): Visualization, Obsidian Development
+	- Obsidian Development
+		- How can we ensure that all of this isn't ridiculously slow?
+			- Caching, file organization 
 
 
 

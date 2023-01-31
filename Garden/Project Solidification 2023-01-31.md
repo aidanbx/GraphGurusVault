@@ -67,7 +67,11 @@ So far we have solidified the project a bit and assigned individual focuses.
 			- Look at game dev
 			- Voroni tiling?
 			- There are a couple links in the overview
-			- 
+		- How could we differentiate different areas of a map?
+			- Color spaces based on hierarchy?
+			- Colors based on semantics?
+				- Or Procedural content generation (PCG) decisions
+					- E.G. dense areeas
 
 
 

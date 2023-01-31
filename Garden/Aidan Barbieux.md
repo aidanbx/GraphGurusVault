@@ -1,15 +1,7 @@
  
 ---
-**Status:**
-#🪴 
-
-**Tags:**
-[[People]], [[Project Members]]
-
-**Links:**
-
-**References:**
-
-Created Date:: 2023-01-24
-
-Created Time:: 20:13
+**Status::** #🪨  
+**Tags::** [[People]], [[Project Members]]
+**Links::**
+**References::**
+Created:: 2023-01-24 20:13

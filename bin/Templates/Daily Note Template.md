@@ -21,8 +21,6 @@
 
  
 ---
-**Status:**
-#📅 
-**Contributors:**
-
-Date:: {{date}}
+**Status::** #📅 
+**Contributors::**
+Created:: {{date}}

@@ -11,9 +11,12 @@ So far we have solidified the project a bit and assigned individual focuses.
 ## Individual Focuses:
 - Kenny: Text embeddings
 	- Work on getting an OpenAI account working
-	- Analyze the text embeddings - what can we do with them
-	- What sort of features might be useful for us?
+	- Analyze the text embeddings - what can we do with them?
+	- What sort of OpenAI features might be useful for us?
+	- What other projects use embeddings/semantic search? How can we use their work? (Rather than rewriting it)
 	- Implementing this side of the project 
+- Kaanan: Clustering/Visualization
+	- Take embeddings (or )
 
 
 

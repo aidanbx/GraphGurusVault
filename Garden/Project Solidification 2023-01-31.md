@@ -78,7 +78,11 @@ So far we have solidified the project a bit and assigned individual focuses.
 				- decided randomly? 
 					- Pick an area and call it a forest, forests are sharp and green
 				- Rule-based?
-					- Coastline that is concave becomes a cove, coves are g
+					- Coastline that is concave becomes a cove, coves are grey and have a shadow
+				- Semantically?
+					- Engineering is "sharp," biology is "round"
+					- Thesis notes should look very different from recommended movies
+					- DALL
 
 
 

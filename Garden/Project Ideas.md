@@ -10,3 +10,12 @@ Mindmap resource
 Have layers that can be toggled
 Islands for subject area life "life org," "academic," "etc"
 - Is there a way of lowering "elevation" based on distance so that after a threshold, water is added?
+
+ 
+---
+**Status::** #🪨
+**Contributors::** [[Aidan Barbieux]]
+**Tags::** [[Ideas]], [[]]
+**Links::**
+**References::**
+Created:: 2023-01-31 14:10

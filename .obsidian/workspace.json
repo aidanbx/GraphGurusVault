@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md",
+                "file": "Garden/Project Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Features and Requirements.md",
+                "file": "Garden/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Features and Requirements.md",
+                "file": "Garden/Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Features and Requirements.md"
+                "file": "Garden/Project Ideas.md"
               }
             }
           }
@@ -182,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "581a572a128dd7c6",
+  "active": "f33bc2085afd0bd8",
   "lastOpenFiles": [
+    "Garden/Project Solidification 2023-01-31.md",
+    "Garden/Project Ideas.md",
+    "Garden/Papers to Read.md",
+    "Garden/OpenAI Cookbook Example.md",
+    "Garden/Features and Requirements.md",
     "Garden/Deadlines Etc..md",
     "Garden/Closed List.md",
     "Garden/Aidan Barbieux.md",
     "README.md",
-    "bin/Templates/Daily Note Template.md",
-    "bin/Templates/New Note Template.md",
-    "bin/Templates/Library Doc Template.md",
-    "Garden/Project Solidification 2023-01-31.md",
-    "Garden/Features and Requirements.md",
-    "Garden/OpenAI Cookbook Example.md"
+    "bin/Templates/Daily Note Template.md"
   ]
 }

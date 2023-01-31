@@ -2,14 +2,8 @@
 
  
 ---
-**Status:**
-#🗄 
-
-**Tags:**
-[[OpenAI]], [[Embeddings]], [[Examples]], [[Clustering]]
-**Created:** 2023-01-31
-
-**Links:**
-
-**References:**
-
+**Status::** #🗄 
+**Tags::** [[OpenAI]], [[Embeddings]], [[Examples]], [[Clustering]]
+**Created:**: 2023-01-31
+**Links::**
+**References::**

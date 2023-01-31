@@ -90,19 +90,12 @@ So far we have solidified the project a bit and assigned individual focuses.
 				- Thesis notes should look very different from recommended movies
 				- DALLE etc? 
  
+ 
 ---
-**Status:**
-#🪨
+**Status::** #🪴 
+**Contributors::** [[Aidan Barbieux]]
+**Tags::** [[Overhead]]
+**Links::**
+**References::**
+Created:: 2023-01-31 14:10
 
-**Contributors:**
-[[Aidan Barbieux]]
-
-**Tags:**
-[[Overhead]]
-**Links:**
-
-**References:**
-
-Created Date:: 2023-01-31
-
-Created Time:: 12:46

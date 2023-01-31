@@ -22,27 +22,14 @@ Future Features
 	1.  If you zoom in enough, these labels are note titles or summarizations
 5.  Search bar to allow users to semantically search clusters for documents
 	1.  Describe what you’re looking for and get related notes
-2.  Goes beyond Regex and keyword search for large knowledge bases (and forgotten notes)
-    
-
+	2.  Goes beyond Regex and keyword search for large knowledge bases (and forgotten notes)
 7.  Mini-map to show user location in knowledge graph
-    
-
-1.  When in a folder or file, you can learn to associate that part of the map with that region
-    
-
+	1.  When in a folder or file, you can learn to associate that part of the map with that region
 9.  Customizable visualizations
-    
-
-1.  If you want one region of the map to look a certain way (colors, terrain type, scale/importance) you can define this in a file linked to the map
-    
-
+	1.  If you want one region of the map to look a certain way (colors, terrain type, scale/importance) you can define this in a file linked to the map
 11.  Global maps
-    
-
-1.  View multiple knowledge bases in one map, since semantic areas are universal, other people’s notes should map to the same areas - compare your vault to others
-    
-2.  Collaborate on a global map and customize your area of contribution
+	1.  View multiple knowledge bases in one map, since semantic areas are universal, other people’s notes should map to the same areas - compare your vault to others
+	2.  Collaborate on a global map and customize your area of contribution
     
 
 

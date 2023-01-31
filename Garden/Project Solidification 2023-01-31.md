@@ -82,7 +82,7 @@ So far we have solidified the project a bit and assigned individual focuses.
 				- Semantically?
 					- Engineering is "sharp," biology is "round"
 					- Thesis notes should look very different from recommended movies
-					- DALL
+					- DALLE etc? 
 
 
 

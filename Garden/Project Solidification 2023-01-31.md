@@ -15,8 +15,10 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- What sort of OpenAI features might be useful for us?
 	- What other projects use embeddings/semantic search? How can we use their work? (Rather than rewriting it)
 	- Implementing this side of the project 
+	- Make sure this work is usable for the plugin - can this info be sent outside of OpenAI etc.
 - Kaanan: Clustering/Visualization
-	- Take embeddings (or )
+	- Find example embeddings before OpenAI is set up
+	- Set up a pipeline for clustering these embeddings hierarchically
 
 
 

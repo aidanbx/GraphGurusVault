@@ -98,7 +98,7 @@ So far we have solidified the project a bit and assigned individual focuses.
 [[Aidan Barbieux]]
 
 **Tags:**
-[[O]]
+[[Overhead]]
 **Links:**
 
 **References:**

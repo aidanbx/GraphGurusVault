@@ -34,7 +34,10 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- Implement this portion of the plug-in (or a separate file/server if necessary)
 	- What else should go here?
 - Trevor: (Absent) Embedding analysis, other features
-	- If these embeddings are in high dimensional space, how can we retain their organization when projecting 
+	- If these embeddings are in high dimensional space, how can we retain their organization when projecting onto a 2D plane?
+	- Could these embeddings be used for a semantic search function?
+	- What ways are there to connect topical clusters?
+	- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffi)
 
 
 

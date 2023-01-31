@@ -34,16 +34,20 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- Implement this portion of the plug-in (or a separate file/server if necessary)
 	- What else should go here?
 - Trevor (Absent): Embedding analysis, Obsidian Development
+	- Obsidian Development
+		- Can we utilize existing map plugins to display this?
+			- Like fanta
+		- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffic views in google maps)
+			- If 2D removes too much information this could be a backup.
+		- Could we have a minimap while within a note?
+		- A semantic search box within the map (might be free if we already have a connection to OpenAI)
 	- Embeddings
 		- If these embeddings are in high dimensional space, how can we retain their organization when projecting onto a 2D plane?
 		- Could these embeddings be used for a semantic search function?
 		- What ways are there to connect topical clusters?
 		- How much information does TSNE lose? Does it work well with hierarchical clustering
-	- Development
-		- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffic views in google maps)
-			- If 2D removes too much information this could be a backup.
-		- Could we have a minimap while within a note?
-		- A semantic search box within the map (might be free if we alre)
+	
+	
 	-
 - Miko (Absent): Visualization, Obsidi
 

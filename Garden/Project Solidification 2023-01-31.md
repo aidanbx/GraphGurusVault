@@ -35,7 +35,11 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- What else should go here?
 - Trevor (Absent): Embedding analysis, Obsidian Development
 	- Obsidian Development
-		- How do we develop in 
+		- How do we develop in Obsidian? 
+			- If all javascript, can we call other programs/tools?
+			- What does this all look like, what difficulties are there?
+			- What is Obsidian's stack?
+			- Any similar plugins we can steal from?
 		- Can we utilize existing map plugins to display this?
 			- Like fantasy maps or google maps, not KGs
 		- Perhaps there is a KG visualizer that is useful?
@@ -49,7 +53,7 @@ So far we have solidified the project a bit and assigned individual focuses.
 		- What ways are there to connect topical clusters?
 		- How much information does TSNE lose? Does it work well with hierarchical clustering
 	
-	
+
 	-
 - Miko (Absent): Visualization, Obsidi
 

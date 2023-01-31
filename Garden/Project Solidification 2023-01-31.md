@@ -61,7 +61,8 @@ So far we have solidified the project a bit and assigned individual focuses.
 		- Can we have human trials/testers evaluate our work?
 		- What other parts of the plugin are we neglecting (look at Trevor's section)
 	- Visualization (PCG)
-		- If we have a 2D representation of the embeddings, how do we display this as an interactive map? (Collab with t)
+		- If we have a 2D representation of the embeddings, how do we display this as an interactive map? (Collab with Trevor)
+		- How can we go from a scatter plot with hierarchical clustering to 
 
 
 

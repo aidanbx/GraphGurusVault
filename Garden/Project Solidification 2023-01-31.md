@@ -60,7 +60,8 @@ So far we have solidified the project a bit and assigned individual focuses.
 			- Can we have one in Beta?
 		- Can we have human trials/testers evaluate our work?
 		- What other parts of the plugin are we neglecting (look at Trevor's section)
-	- Visualization (PCG)
+	- Visualization/Procedural content generation (PCG)
+		- What already exists for 
 		- If we have a 2D representation of the embeddings, how do we display this as an interactive map? (Collab with Trevor)
 		- How can we go from a scatter plot with hierarchical clustering to a map?
 		- What methods exist for turning something like this into a full on game map?
@@ -70,11 +71,13 @@ So far we have solidified the project a bit and assigned individual focuses.
 		- How could we differentiate different areas of a map?
 			- Color spaces based on hierarchy?
 			- Colors based on semantics?
-				- Or Procedural content generation (PCG) decisions
+				- Or PCG
 					- E.G. dense areas could be snowy with shading because they are like mountains
 					- E.G. Blank areas between semantic islands could be water or deserts
 			- What about shape?
 				- decided randomly? 
+					- Pick an area and call it a forest, forests are sharp and green
+					- This part of the coastline will be a cove, 
 
 
 

@@ -1,1 +1,1 @@
-[Here is a Github of OpenAI ]
+[Here is a Github of OpenAI example notebooks, this one clusters embeddings and generates description](https://github.com/openai/openai-cookbook/blob/main/examples/Clustering.ipynb)

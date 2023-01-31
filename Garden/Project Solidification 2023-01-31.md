@@ -33,7 +33,8 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- How do you communicate outside of OpenAI?
 	- Implement this portion of the plug-in (or a separate file/server if necessary)
 	- What else should go here?
-- Trevor: 
+- Trevor: (Absent) Embedding analysis, other features
+	- If these embeddings are in high dimensional space, how can we retain their organization when projecting 
 
 
 

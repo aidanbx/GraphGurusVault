@@ -23,9 +23,13 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- [[OpenAI Cookbook Example]]
 		- [Here is a Github of OpenAI example notebooks, this one clusters embeddings and generates description](https://github.com/openai/openai-cookbook/blob/main/examples/Clustering.ipynb)
 	- Display these clusters in 2D space that is static, ensure it is stable when new embeddings are added
-	- Implement this pipe
+	- Implement this pipeline in a way usable by the plugin
+		- If not Javascript, an API hosted elsewhere
+		- A callable file?
 - Erik: System integration
 	- How do we communicate between OpenAI, Kanaans analysis, and the obisdian plugin?
+	- How does obsidian deal with this?
+	- How d
 	- Implement the portion of the 
 
 

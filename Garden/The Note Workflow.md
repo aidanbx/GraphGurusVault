@@ -75,21 +75,10 @@ Tags indicate the status of a note and distinguishes between garden (ideas, work
 ### #📕
 - Finished reading, complete notes.
 
- 
 ---
-**Status:**
-#🌱 
-
-**Contributors:**
-[[Aidan Barbieux]]
-
-**Tags:**
-[[Meta]], [[Overhead]]
-
-**Links:**
-
-**References:**
-
-Created Date:: 2023-01-24
-
-Created Time:: 20:19
+**Status::** #🌱 
+**Contributors::** [[Aidan Barbieux]]
+**Tags::** [[Meta]], [[Overhead]]
+**Links::**
+**References::**
+Created:: 2023-01-24 14:10

@@ -15,7 +15,7 @@ Islands for subject area life "life org," "academic," "etc"
 ---
 **Status::** #🪨
 **Contributors::** [[Aidan Barbieux]]
-**Tags::** [[Ideas]], [[]]
+**Tags::** [[Ideas]]
 **Links::**
 **References::**
 Created:: 2023-01-31 14:10

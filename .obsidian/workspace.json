@@ -11,12 +11,8 @@
             "id": "581a572a128dd7c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Garden/Project Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,13 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acdcefb6f1aebeae",
+  "active": "581a572a128dd7c6",
   "lastOpenFiles": [
-    "Garden/Project Ideas.md",
     "README.md",
+    "Garden/Closed List.md",
+    "Garden/Project Ideas.md",
     "Garden/Deadlines Etc..md",
     "Garden/Papers to Read.md",
-    "Garden/Closed List.md",
     "Garden/Note Organization Schema.md",
     "Daily/2023-01-25.md",
     "bin/Templates/Daily Note Template.md",

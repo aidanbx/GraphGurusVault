@@ -71,7 +71,10 @@ So far we have solidified the project a bit and assigned individual focuses.
 			- Color spaces based on hierarchy?
 			- Colors based on semantics?
 				- Or Procedural content generation (PCG) decisions
-					- E.G. dense areeas
+					- E.G. dense areas could be snowy with shading because they are like mountains
+					- E.G. Blank areas between semantic islands could be water or deserts
+			- What about shape?
+				- decided randomly? 
 
 
 

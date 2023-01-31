@@ -37,7 +37,7 @@ So far we have solidified the project a bit and assigned individual focuses.
 	- If these embeddings are in high dimensional space, how can we retain their organization when projecting onto a 2D plane?
 	- Could these embeddings be used for a semantic search function?
 	- What ways are there to connect topical clusters?
-	- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffi)
+	- Would it be useful/possible to have multiple removeable layers (like sattelite, transit, traffic views )
 
 
 

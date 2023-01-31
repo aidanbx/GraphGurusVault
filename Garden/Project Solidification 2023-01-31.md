@@ -61,7 +61,7 @@ So far we have solidified the project a bit and assigned individual focuses.
 		- Can we have human trials/testers evaluate our work?
 		- What other parts of the plugin are we neglecting (look at Trevor's section)
 	- Visualization/Procedural content generation (PCG)
-		- What already exists for 
+		- What already exists for PCG of maps, especially for semantic spaces/ mindmaps/ knowledge organization etc. surely someone has done this before
 		- If we have a 2D representation of the embeddings, how do we display this as an interactive map? (Collab with Trevor)
 		- How can we go from a scatter plot with hierarchical clustering to a map?
 		- What methods exist for turning something like this into a full on game map?
@@ -77,7 +77,8 @@ So far we have solidified the project a bit and assigned individual focuses.
 			- What about shape?
 				- decided randomly? 
 					- Pick an area and call it a forest, forests are sharp and green
-					- This part of the coastline will be a cove, 
+				- Rule-based?
+					- Coastline that is concave becomes a cove, coves are g
 
 
 

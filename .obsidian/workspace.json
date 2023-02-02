@@ -50,9 +50,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "35728d089571b85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Categorizing Hierarchical Clusters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Garden/Categorizing Hierarchical Clusters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Garden/Categorizing Hierarchical Clusters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Garden/Categorizing Hierarchical Clusters.md"
+              }
             }
           }
         ]
@@ -175,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d42785b48b778738",
+  "active": "35728d089571b85d",
   "lastOpenFiles": [
     "Garden/Project Solidification 2023-01-31.md",
     "Garden/Features and Requirements.md",

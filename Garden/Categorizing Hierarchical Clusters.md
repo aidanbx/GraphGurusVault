@@ -10,7 +10,7 @@ Common words
  
 ---
 **Status::** #🪨
-**Contributors::**
+**Contributors::** [[Kaanan Kharwa]]
 **Tags::**
 **Links::**
 **References::**

@@ -1,4 +1,4 @@
-How do you add a new node to a dendrogram witho
+How do you add a new node to a dendrogram without reclustering?
 
 ---
 **Status::** #🪨

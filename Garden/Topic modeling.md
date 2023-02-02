@@ -1,4 +1,5 @@
-LDA
+LDA Latent Dirichlet 
+
 
 ---
 **Status::** #🪨

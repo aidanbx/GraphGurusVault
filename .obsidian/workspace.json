@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/NLP for Categories.md",
+                "file": "Garden/Categorizing Hierarchical Clusters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/NLP for Categories.md",
+                "file": "Garden/Categorizing Hierarchical Clusters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/NLP for Categories.md"
+                "file": "Garden/Categorizing Hierarchical Clusters.md"
               }
             }
           }
@@ -203,8 +203,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aad76721548ee66a",
+  "active": "35728d089571b85d",
   "lastOpenFiles": [
+    "Garden/NLP for Categories.md",
     "Garden/Categorizing Hierarchical Clusters.md",
     "Garden/Project Solidification 2023-01-31.md",
     "Garden/Features and Requirements.md",
@@ -213,7 +214,6 @@
     "Daily/2023-01-24.md",
     "Daily/2023-01-25.md",
     "Garden/Deadlines Etc..md",
-    "Garden/Aidan Barbieux.md",
-    "Garden/Note Organization Schema.md"
+    "Garden/Aidan Barbieux.md"
   ]
 }

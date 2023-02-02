@@ -1,6 +1,6 @@
 What words describe a category?
 
-Word
+Redactyl
  
 ---
 **Status::** #🪨

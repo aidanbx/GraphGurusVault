@@ -5,6 +5,8 @@ cluster embeddings etc.
 
 Take the clsuters, look at text in notes, use nlp to create labels for super categories
 
+Common words 
+
  
 ---
 **Status::** #🪨

@@ -108,6 +108,18 @@
             }
           },
           {
+            "id": "c258ab893d7b277a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Working in Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8bacc19bf20879f9",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Pipeline Integration.md",
+                "file": "Garden/Working in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Pipeline Integration.md",
+                "file": "Garden/Working in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Pipeline Integration.md"
+                "file": "Garden/Working in Obsidian.md"
               }
             }
           }
@@ -255,7 +267,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cc3322fb52207bd",
+  "active": "c258ab893d7b277a",
   "lastOpenFiles": [
     "Garden/Pipeline Integration.md",
     "Garden/NLP for Categories - Vibe Maps.md",

@@ -1,7 +1,9 @@
 Get a MVP of a closed-loop
+
+
 ---
 **Status::** #🪨
-**Contributors::**
+**Contributors::** [[Erik Luu]]
 **Tags::**
 **Links::**
 **References::**

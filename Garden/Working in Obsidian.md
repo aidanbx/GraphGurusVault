@@ -1,0 +1,1 @@
+Only add text to notes 

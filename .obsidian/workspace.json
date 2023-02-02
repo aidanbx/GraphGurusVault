@@ -67,12 +67,8 @@
             "id": "9cef9d5ba3fba3c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -105,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Untitled.md",
+                "file": "Garden/Pipeline Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,14 +113,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/NLP for Categories.md",
+                "file": "Garden/NLP for Categories - Vibe Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Untitled 1.md",
+                "file": "Garden/Pipeline Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Untitled 1.md",
+                "file": "Garden/Pipeline Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Untitled 1.md"
+                "file": "Garden/Pipeline Integration.md"
               }
             }
           }
@@ -251,17 +247,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cef9d5ba3fba3c4",
+  "active": "1cc3322fb52207bd",
   "lastOpenFiles": [
-    "Garden/Categorizing Hierarchical Clusters.md",
-    "Garden/Topic modeling.md",
+    "Garden/NLP for Categories - Vibe Maps.md",
+    "Garden/Vibe Maps.md",
+    "Garden/Pipeline Integration.md",
     "Garden/Updated Hierarchical Clustering.md",
-    "Garden/Untitled.md",
-    "Garden/NLP for Categories.md",
+    "Garden/Topic modeling.md",
+    "Garden/Categorizing Hierarchical Clusters.md",
     "Garden/Project Solidification 2023-01-31.md",
     "Garden/Features and Requirements.md",
     "Garden/Closed List.md",
-    "Garden/Project Ideas.md",
-    "Daily/2023-01-24.md"
+    "Garden/Project Ideas.md"
   ]
 }

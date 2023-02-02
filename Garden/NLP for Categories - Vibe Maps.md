@@ -1,6 +1,10 @@
 What words describe a category?
 
 Redactyl
+
+Multiple words - those cheesy images
+
+Vibe maps
  
 ---
 **Status::** #🪨

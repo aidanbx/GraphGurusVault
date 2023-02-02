@@ -108,6 +108,14 @@
             }
           },
           {
+            "id": "8bacc19bf20879f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "aad76721548ee66a",
             "type": "leaf",
             "state": {
@@ -249,9 +257,9 @@
   },
   "active": "1cc3322fb52207bd",
   "lastOpenFiles": [
+    "Garden/Pipeline Integration.md",
     "Garden/NLP for Categories - Vibe Maps.md",
     "Garden/Vibe Maps.md",
-    "Garden/Pipeline Integration.md",
     "Garden/Updated Hierarchical Clustering.md",
     "Garden/Topic modeling.md",
     "Garden/Categorizing Hierarchical Clusters.md",

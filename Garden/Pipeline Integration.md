@@ -1,4 +1,4 @@
-Start with a  
+Get a MVP of a closed-loop
 ---
 **Status::** #🪨
 **Contributors::**

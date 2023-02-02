@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Pipeline Integration.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Working in Obsidian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Working in Obsidian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Working in Obsidian.md"
+                "file": "README.md"
               }
             }
           }
@@ -267,9 +267,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c258ab893d7b277a",
+  "active": "1cc3322fb52207bd",
   "lastOpenFiles": [
     "Garden/Pipeline Integration.md",
+    "Garden/Working in Obsidian.md",
     "Garden/NLP for Categories - Vibe Maps.md",
     "Garden/Vibe Maps.md",
     "Garden/Updated Hierarchical Clustering.md",
@@ -277,7 +278,6 @@
     "Garden/Categorizing Hierarchical Clusters.md",
     "Garden/Project Solidification 2023-01-31.md",
     "Garden/Features and Requirements.md",
-    "Garden/Closed List.md",
-    "Garden/Project Ideas.md"
+    "Garden/Closed List.md"
   ]
 }

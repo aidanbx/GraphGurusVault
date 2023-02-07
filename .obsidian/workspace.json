@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/The Note Workflow.md",
+                "file": "Garden/OpenAI Cookbook Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/The Note Workflow.md",
+                "file": "Garden/OpenAI Cookbook Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/The Note Workflow.md",
+                "file": "Garden/OpenAI Cookbook Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/The Note Workflow.md"
+                "file": "Garden/OpenAI Cookbook Example.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "cede58fa6c808451",
   "lastOpenFiles": [
+    "Garden/Papers to Read.md",
     "Garden/OpenAI Cookbook Example.md",
-    "Garden/Features and Requirements.md",
-    "Garden/Deadlines Etc..md",
-    "Garden/NLP for Categories - Vibe Maps.md",
-    "Garden/Working in Obsidian.md",
-    "Garden/Topic modeling.md",
-    "Garden/Categorizing Hierarchical Clusters.md",
+    "Garden/Pipeline Integration.md",
     "Garden/Project Ideas.md",
-    "Daily/2023-01-24.md",
-    "Garden/Closed List.md"
+    "Garden/Project Solidification 2023-01-31.md",
+    "Garden/The Note Workflow.md",
+    "Garden/Working in Obsidian.md",
+    "Garden/Updated Hierarchical Clustering.md",
+    "Garden/Topic modeling.md",
+    "Garden/Features and Requirements.md"
   ]
 }

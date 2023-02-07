@@ -84,30 +84,6 @@
             }
           },
           {
-            "id": "af8b5eb045f41fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Updated Hierarchical Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cc3322fb52207bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c258ab893d7b277a",
             "type": "leaf",
             "state": {
@@ -140,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Garden/Topic modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Garden/Topic modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Garden/Topic modeling.md"
               }
             }
           }
@@ -267,16 +243,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cc3322fb52207bd",
+  "active": "925b34a583a3a8f8",
   "lastOpenFiles": [
+    "Garden/Updated Hierarchical Clustering.md",
+    "README.md",
     "Daily/2023-01-24.md",
     "Garden/Features and Requirements.md",
-    "README.md",
     "Garden/Pipeline Integration.md",
     "Garden/Working in Obsidian.md",
     "Garden/NLP for Categories - Vibe Maps.md",
     "Garden/Vibe Maps.md",
-    "Garden/Updated Hierarchical Clustering.md",
     "Garden/Topic modeling.md",
     "Garden/Categorizing Hierarchical Clusters.md"
   ]

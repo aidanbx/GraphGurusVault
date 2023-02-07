@@ -17,6 +17,10 @@ G -->|Interactive Graphic| H
 ```
 
 
+---
+**Status::** #🌱  
+**Contributors::** [[Trevor Kirkby]]
+**Tags::** [[Assignments]]
 
 
 

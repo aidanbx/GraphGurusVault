@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/The Note Workflow.md",
+                "file": "Garden/Features and Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/The Note Workflow.md",
+                "file": "Garden/Features and Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/The Note Workflow.md",
+                "file": "Garden/Features and Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/The Note Workflow.md"
+                "file": "Garden/Features and Requirements.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "2d5c2c26e4886ce7",
   "lastOpenFiles": [
+    "Garden/The Note Workflow.md",
     "Garden/Project Solidification 2023-01-31.md",
     "Garden/Project Ideas.md",
     "Garden/Pipeline Integration.md",
@@ -156,7 +157,6 @@
     "Garden/Features and Requirements.md",
     "Garden/Aidan Barbieux.md",
     "Garden/Kaanan Kharwa.md",
-    "Garden/Categorizing Hierarchical Clusters.md",
-    "Garden/Closed List.md"
+    "Garden/Categorizing Hierarchical Clusters.md"
   ]
 }

@@ -1,12 +1,13 @@
 ```mermaid
 graph TD
 
-F[Obsidian ]
-E[Seedling]
-D[Bush]
-C[Tree]
-P[Published]
-S[Worm]
+A[Obsidian Vault]
+B[Obsidian Documents]
+C[OpenAI Word Embedding API]
+D[]
+E[Tree]
+F[Published]
+G[Worm]
 
 F --> E
 E --> D

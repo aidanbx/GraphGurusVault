@@ -4,17 +4,18 @@ graph TD
 A[Obsidian Vault]
 B[Obsidian Documents]
 C[OpenAI Word Embedding API]
-D[]
-E[Tree]
-F[Published]
-G[Worm]
+D[Document Embeddings]
+E[Hierarchical Clustering]
+F[Dimensionality Reduction]
+G[Visualization]
+H[Obsidian]
 
-F --> E
-E --> D
+A --> B
+B --> C
+C --> D
 D --> E
-F --> D
-D --> C
-C --> P
+D --> F
+E --> P
 D --> S
 F --> S
 C --> S

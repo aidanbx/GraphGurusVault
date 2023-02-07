@@ -16,7 +16,6 @@ F -->|Reduced Size Document Vectors| G
 G -->|Interactive Graphic| H
 ```
 
-
 ---
 **Status::** #🌱  
 **Contributors::** [[Trevor Kirkby]]

@@ -106,38 +106,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c258ab893d7b277a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Working in Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bacc19bf20879f9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "aad76721548ee66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/NLP for Categories - Vibe Maps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 8

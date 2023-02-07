@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2041b43392576d8",
+        "id": "85e2faeef2e1d3d8",
         "type": "tabs",
         "children": [
           {
-            "id": "cede58fa6c808451",
+            "id": "8dc3a25586182bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md",
+                "file": "Garden/Aidan Barbieux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md",
+                "file": "Garden/Aidan Barbieux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md",
+                "file": "Garden/Aidan Barbieux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/OpenAI Cookbook Example.md"
+                "file": "Garden/Aidan Barbieux.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cede58fa6c808451",
+  "active": "8dc3a25586182bd6",
   "lastOpenFiles": [
-    "Garden/Papers to Read.md",
+    "Garden/Features and Requirements.md",
+    "Garden/Kaanan Kharwa.md",
+    "Garden/Aidan Barbieux.md",
+    "Garden/Categorizing Hierarchical Clusters.md",
+    "Garden/Closed List.md",
+    "Garden/Deadlines Etc..md",
+    "Garden/NLP for Categories - Vibe Maps.md",
+    "Garden/Note Organization Schema.md",
     "Garden/OpenAI Cookbook Example.md",
-    "Garden/Pipeline Integration.md",
-    "Garden/Project Ideas.md",
-    "Garden/Project Solidification 2023-01-31.md",
-    "Garden/The Note Workflow.md",
-    "Garden/Working in Obsidian.md",
-    "Garden/Updated Hierarchical Clustering.md",
-    "Garden/Topic modeling.md",
-    "Garden/Features and Requirements.md"
+    "Garden/Papers to Read.md"
   ]
 }

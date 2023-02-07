@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d5c2c26e4886ce7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Features and Requirements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f797cf0d2f99f02",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

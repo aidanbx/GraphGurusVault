@@ -47,16 +47,100 @@
             "id": "d42785b48b778738",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "35728d089571b85d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Features and Requirements.md",
+                "file": "Garden/Categorizing Hierarchical Clusters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cef9d5ba3fba3c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "925b34a583a3a8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Topic modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af8b5eb045f41fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Updated Hierarchical Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cc3322fb52207bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c258ab893d7b277a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Working in Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bacc19bf20879f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "aad76721548ee66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/NLP for Categories - Vibe Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -122,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Features and Requirements.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Features and Requirements.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Features and Requirements.md"
+                "file": "README.md"
               }
             }
           }
@@ -183,17 +267,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d42785b48b778738",
+  "active": "1cc3322fb52207bd",
   "lastOpenFiles": [
-    "Garden/Closed List.md",
-    "Garden/Project Ideas.md",
     "Daily/2023-01-24.md",
-    "Daily/2023-01-25.md",
-    "Garden/Deadlines Etc..md",
     "Garden/Features and Requirements.md",
-    "Garden/Aidan Barbieux.md",
-    "Garden/Note Organization Schema.md",
-    "Garden/OpenAI Cookbook Example.md",
-    "Garden/The Note Workflow.md"
+    "README.md",
+    "Garden/Pipeline Integration.md",
+    "Garden/Working in Obsidian.md",
+    "Garden/NLP for Categories - Vibe Maps.md",
+    "Garden/Vibe Maps.md",
+    "Garden/Updated Hierarchical Clustering.md",
+    "Garden/Topic modeling.md",
+    "Garden/Categorizing Hierarchical Clusters.md"
   ]
 }

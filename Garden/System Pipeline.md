@@ -1,7 +1,7 @@
 ```mermaid
 graph TD
 
-A[Obsidian Vault]
+A[(Obsidian Vault)]
 C[OpenAI Word Embedding API]
 E[Hierarchical Clustering]
 F[Dimensionality Reduction]
@@ -15,6 +15,7 @@ E -->|Hierarchical Knowledge Graph| G
 F -->|Reduced Size Document Vectors| G
 G -->|Interactive Graphic| H
 ```
+
 
 
 

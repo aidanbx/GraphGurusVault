@@ -1,7 +1,7 @@
-import openai
 import os
+import openai
 
-openai.api_key = "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"
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 def get_embedding(block):
     # returns array of size 1536

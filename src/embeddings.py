@@ -1,4 +1,5 @@
 import os
+import json
 import openai
 from tenacity import (
     retry,
@@ -23,7 +24,7 @@ def getAllEmbeddings(path):
     # returns a dictionary where {filename1: content1, filename2: content2, ...}
     embeddings = {}
     # only getting a subset of the directories and files because it's a lot
-    for item in os.listdir(path)[:2]:
+    for item in os.listdir(path)[:5]:
         print(item)
         content = os.path.join(path, item)
         if os.path.isdir(content):
@@ -35,7 +36,13 @@ def getAllEmbeddings(path):
     return embeddings
 
 
+if __name__ == "__main__":
+    # generate json file instead of making function call
+    embeddings = getAllEmbeddings("./my-second-brain")
+    with open('./embeddings.json', 'w') as fp:
+        json.dump(embeddings, fp)
+    #r = json.dumps(embeddings)
+    #loaded_r = json.loads(r)
 
-embeddings = getAllEmbeddings("./my-second-brain")
-print(embeddings)
-print(embeddings.keys())
+    #print(embeddings)
+    #print(embeddings.keys())

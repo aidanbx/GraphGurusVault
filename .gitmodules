@@ -1,3 +1,6 @@
 [submodule "src/src/my-second-brain"]
 	path = src/src/my-second-brain
 	url = https://github.com/anthonyamar/my-second-brain.git
+[submodule "src/my-second-brain"]
+	path = src/my-second-brain
+	url = https://github.com/anthonyamar/my-second-brain.git

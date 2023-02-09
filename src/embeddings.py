@@ -22,6 +22,7 @@ def getAllEmbeddings(path):
     # recursively walk through dir to get all markdown files
     # returns a dictionary where {filename1: content1, filename2: content2, ...}
     embeddings = {}
+    # only getting a subset of the directories and files because it's a lot
     for item in os.listdir(path)[:2]:
         print(item)
         content = os.path.join(path, item)

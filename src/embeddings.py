@@ -1,6 +1,9 @@
 import os
 import json
+import string
+from itertools import chain
 import openai
+import nltk
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -17,21 +20,24 @@ def createEmbedding(block):
     return openai.Embedding.create(input = [block], model="text-embedding-ada-002")['data'][0]['embedding']
 
 def preprocessText(text):
-    pass
+    sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    cleanText = [nltk.word_tokenize(s.translate(str.maketrans('', '', string.punctuation))) for par in text.split("\n\n") for s in sent_tokenizer.tokenize(par.strip())]
+    return ' '.join(chain.from_iterable(cleanText))
 
 def getAllEmbeddings(path):
     # recursively walk through dir to get all markdown files
     # returns a dictionary where {filename1: content1, filename2: content2, ...}
     embeddings = {}
     # only getting a subset of the directories and files because it's a lot
-    for item in os.listdir(path)[:5]:
+    for item in os.listdir(path):
         print(item)
         content = os.path.join(path, item)
         if os.path.isdir(content):
             embeddings.update(getAllEmbeddings(content))
         elif content.endswith(".md"):
             fp = open(content)
-            embeddings[item] = createEmbedding(fp.read())
+            fContent = preprocessText(fp.read())
+            embeddings[item] = createEmbedding(fContent)
             fp.close()
     return embeddings
 
@@ -41,8 +47,3 @@ if __name__ == "__main__":
     embeddings = getAllEmbeddings("./my-second-brain")
     with open('./embeddings.json', 'w') as fp:
         json.dump(embeddings, fp)
-    #r = json.dumps(embeddings)
-    #loaded_r = json.loads(r)
-
-    #print(embeddings)
-    #print(embeddings.keys())

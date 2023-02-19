@@ -19,7 +19,7 @@ def plot_space(labels, vectors):
         ax.annotate(label, (x[i], y[i]))
     plt.show()
 
-if __name__ == '__main__':
+def runReduction():
     with open('embeddings.json','r') as infile:
         data = json.load(infile)
     embedding_labels = list(data.keys())
@@ -27,3 +27,6 @@ if __name__ == '__main__':
     embeddings = np.array([data[label] for label in embedding_labels])
     latent_space = reduce_dimensions(embeddings)
     plot_space(embedding_labels, latent_space)
+
+if __name__ == '__main__':
+    runReduction()

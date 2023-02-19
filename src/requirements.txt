@@ -1,0 +1,6 @@
+matplotlib==3.5.3
+nltk==3.6.2
+numpy==1.20.3
+openai==0.26.4
+scikit_learn==1.2.1
+tenacity==8.2.1

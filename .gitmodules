@@ -4,3 +4,6 @@
 [submodule "src/my-second-brain"]
 	path = src/my-second-brain
 	url = https://github.com/anthonyamar/my-second-brain.git
+[submodule ".obsidian/plugins/obsidian-graph-guru"]
+	path = .obsidian/plugins/obsidian-graph-guru
+	url = https://github.com/erikluu/obsidian-graph-guru

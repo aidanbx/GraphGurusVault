@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-zotero-desktop-connector",
-  "obsidian-graph-guru"
+  "obsidian-graph-guru",
+  "hot-reload"
 ]

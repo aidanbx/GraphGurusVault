@@ -111,9 +111,11 @@
             "id": "64ba2910ccdab34f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "bin/Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -184,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/System Pipeline.md",
+                "file": "bin/Templates/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/System Pipeline.md",
+                "file": "bin/Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/System Pipeline.md"
+                "file": "bin/Templates/Daily Note Template.md"
               }
             }
           }
@@ -237,13 +239,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-graph-guru:Open GraphGuru": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-graph-guru:Open GraphGuru": false
     }
   },
   "active": "64ba2910ccdab34f",

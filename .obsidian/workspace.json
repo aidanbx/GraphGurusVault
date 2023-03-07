@@ -250,6 +250,7 @@
   },
   "active": "64ba2910ccdab34f",
   "lastOpenFiles": [
+    "src/clusters.npy",
     "src/clusters.npz",
     "src/visualization.ipynb",
     "src/reduced_embeddings_2d.csv",

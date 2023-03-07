@@ -248,8 +248,10 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "64ba2910ccdab34f",
+  "active": "c72be7045c517903",
   "lastOpenFiles": [
+    "src/visualization.ipynb",
+    "src/reduced_embeddings_2d.csv",
     "Garden/OpenAI Cookbook Example.md",
     "Garden/Note Organization Schema.md",
     "Garden/NLP for Categories - Vibe Maps.md",

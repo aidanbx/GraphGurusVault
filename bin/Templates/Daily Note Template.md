@@ -6,7 +6,7 @@
 # Closed List:
 ---
 ![[Closed List]]
-
+ 
 # Open Lists:
 ---
 ## Papers to Read

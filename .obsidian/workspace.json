@@ -248,8 +248,9 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "c72be7045c517903",
+  "active": "64ba2910ccdab34f",
   "lastOpenFiles": [
+    "src/clusters.npz",
     "src/visualization.ipynb",
     "src/reduced_embeddings_2d.csv",
     "Garden/OpenAI Cookbook Example.md",

@@ -106,9 +106,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64ba2910ccdab34f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -227,6 +237,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-graph-guru:Open GraphGuru": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -235,7 +246,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cc3322fb52207bd",
+  "active": "64ba2910ccdab34f",
   "lastOpenFiles": [
     "Garden/OpenAI Cookbook Example.md",
     "Garden/Note Organization Schema.md",

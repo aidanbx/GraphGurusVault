@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import json
 
-def reduce_dimensions(vec_embeddings):
-    pca = PCA(n_components=2)
+def reduce_dimensions(vec_embeddings,n_components):
+    pca = PCA(n_components=n_components)
     pca.fit(vec_embeddings)
     pca_encodings = pca.transform(vec_embeddings)
     return pca_encodings
@@ -25,7 +25,7 @@ def runReduction():
     embedding_labels = list(data.keys())
     embedding_size = len(data[embedding_labels[0]])
     embeddings = np.array([data[label] for label in embedding_labels])
-    latent_space = reduce_dimensions(embeddings)
+    latent_space = reduce_dimensions(embeddings,2)
     plot_space(embedding_labels, latent_space)
 
 if __name__ == '__main__':

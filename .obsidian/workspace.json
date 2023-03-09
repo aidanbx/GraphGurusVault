@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bin/Templates/Daily Note Template.md",
+                "file": "Garden/Pipeline Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bin/Templates/Daily Note Template.md",
+                "file": "Garden/Pipeline Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bin/Templates/Daily Note Template.md",
+                "file": "Garden/Pipeline Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bin/Templates/Daily Note Template.md"
+                "file": "Garden/Pipeline Integration.md"
               }
             }
           }
@@ -250,6 +250,7 @@
   },
   "active": "64ba2910ccdab34f",
   "lastOpenFiles": [
+    "bin/Templates/Daily Note Template.md",
     "src/Voronoi.ipynb",
     "src/clusters.npy",
     "src/clusters.npz",

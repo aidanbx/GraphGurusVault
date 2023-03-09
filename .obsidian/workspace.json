@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Pipeline Integration.md",
+                "file": "Garden/System Pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Pipeline Integration.md",
+                "file": "Garden/System Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Pipeline Integration.md",
+                "file": "Garden/System Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Pipeline Integration.md"
+                "file": "Garden/System Pipeline.md"
               }
             }
           }
@@ -250,6 +250,10 @@
   },
   "active": "64ba2910ccdab34f",
   "lastOpenFiles": [
+    "Garden/The Note Workflow.md",
+    "Garden/Topic modeling.md",
+    "Garden/Updated Hierarchical Clustering.md",
+    "Garden/Pipeline Integration.md",
     "bin/Templates/Daily Note Template.md",
     "src/Voronoi.ipynb",
     "src/clusters.npy",

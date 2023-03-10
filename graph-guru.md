@@ -199,5 +199,15 @@ marker: default, 5.220380365087136, -6.369865523758447, [[Rapture - Koffee.md]]
 marker: default, 2.768445177246804, -3.127336796820754, [[Giant Steps - John Coltrane.md]]
 marker: default, 1.3125037002221103, -5.363707802105178, [[Armando's Rhumba - Chick Corea.md]]
 marker: default, 5.879314192599059, -2.9839701462360604, [[~ Full list of the song I learned - Map of content.md]]
+marker: default, 3.169849009620672, -3.5044157430518452, [[Nemesis - Aaron Parks.md]]
+marker: default, 4.382910774689398, -3.3099576066064715, [[All the things you are - Jerome Kern.md]]
+marker: default, 5.681732933803888, -4.914871343683122, [[Running Away - Bob Marley and the Wailers.md]]
+marker: default, 4.410853041285609, -5.494657442985852, [[Crazy Baldhead - Bob Marley and the Wailers.md]]
+marker: default, -6.763743738116205, -2.472607122462256, [[Voyage Autour Du Monde (Tome I) - Dumont D'urville.md]]
+marker: default, -4.456335872141171, -3.606625107784707, [[Plongées Autour Du Monde - Jean Bernard Carillet, Olivier Oudon.md]]
+marker: default, -6.462667075457349, 0.20284615055104274, [[Encyclopédie Progressive Ou, Abrégé Des Sciences, Des Arts Et Des Connaissances Utiles (Tome II) - Mlle M. Forgame.md]]
+marker: default, -10.904958766527525, 0.20176140184011798, [[Les Voyages D'Ulysse - Mythologie.md]]
+marker: default, -10.449616460753063, -1.2749818577588072, [[Rap Ta France - José Louis Bocquet, Philippe Pierre Adolphe.md]]
 darkMode: True
 ```
+

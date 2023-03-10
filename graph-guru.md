@@ -8,6 +8,7 @@ minZoom: 1
 maxZoom: 10
 defaultZoom: 5
 unit: meters
-scale: 1marker: default, 50, 50, [[Create a programming language.md]]
+scale: 1
+marker: default, 50, 50, [[Create a programming language.md]]
 marker: default, 0.19376726942592237, 0.012073245909429672, [[Programming languages.md]]
 ```

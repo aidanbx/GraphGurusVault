@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/System Pipeline.md",
+                "file": "graph-guru.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/System Pipeline.md",
+                "file": "graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/System Pipeline.md",
+                "file": "graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/System Pipeline.md"
+                "file": "graph-guru.md"
               }
             }
           }
@@ -245,11 +245,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
   "active": "64ba2910ccdab34f",
   "lastOpenFiles": [
+    "Garden/System Pipeline.md",
+    "graph-guru.md",
     "Garden/The Note Workflow.md",
     "Garden/Topic modeling.md",
     "Garden/Updated Hierarchical Clustering.md",

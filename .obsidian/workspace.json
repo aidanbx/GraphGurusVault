@@ -8,49 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cef9d5ba3fba3c4",
+            "id": "1cc3322fb52207bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "graph-guru.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "925b34a583a3a8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Topic modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af8b5eb045f41fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Updated Hierarchical Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cc3322fb52207bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/System Pipeline.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -184,17 +148,17 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "9cef9d5ba3fba3c4",
+  "active": "1cc3322fb52207bd",
   "lastOpenFiles": [
     "graph-guru.md",
+    "Garden/System Pipeline.md",
+    "Garden/Updated Hierarchical Clustering.md",
+    "Garden/Topic modeling.md",
+    "Garden/Pipeline Integration.md",
     "README.md",
     "Daily/2023-01-24.md",
     "src/istockphoto-1146986079-170667a.jpg",
-    "Garden/System Pipeline.md",
     "Garden/The Note Workflow.md",
-    "Garden/Topic modeling.md",
-    "Garden/Updated Hierarchical Clustering.md",
-    "Garden/Pipeline Integration.md",
     "bin/Templates/Daily Note Template.md",
     "src/Voronoi.ipynb",
     "src/clusters.npy",

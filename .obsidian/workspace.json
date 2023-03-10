@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acdcefb6f1aebeae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph-guru.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d42785b48b778738",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "35728d089571b85d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Categorizing Hierarchical Clusters.md",
+                "file": "graph-guru.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +192,7 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "acdcefb6f1aebeae",
+  "active": "35728d089571b85d",
   "lastOpenFiles": [
     "graph-guru.md",
     "README.md",

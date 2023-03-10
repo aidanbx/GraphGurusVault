@@ -11,8 +11,12 @@
             "id": "9cef9d5ba3fba3c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "graph-guru.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "graph-guru.md"
+              }
             }
           }
         ]
@@ -176,7 +184,7 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "c72be7045c517903",
+  "active": "9cef9d5ba3fba3c4",
   "lastOpenFiles": [
     "graph-guru.md",
     "README.md",

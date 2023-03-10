@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f33bc2085afd0bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph-guru.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "acdcefb6f1aebeae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Project Ideas.md",
+                "file": "graph-guru.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,10 +212,10 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "f33bc2085afd0bd8",
+  "active": "acdcefb6f1aebeae",
   "lastOpenFiles": [
-    "README.md",
     "graph-guru.md",
+    "README.md",
     "Daily/2023-01-24.md",
     "src/istockphoto-1146986079-170667a.jpg",
     "Garden/System Pipeline.md",

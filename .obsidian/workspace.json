@@ -11,15 +11,20 @@
             "id": "1cc3322fb52207bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph-guru.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "05f52f617acb9969",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "graph-guru.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +149,7 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "1cc3322fb52207bd",
+  "active": "05f52f617acb9969",
   "lastOpenFiles": [
     "graph-guru.md",
     "src/tree.py",

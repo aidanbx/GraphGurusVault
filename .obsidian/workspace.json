@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "graph-guru.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,13 +153,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "c72be7045c517903",
+  "active": "0ae6d3f81f44aad4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "graph-guru.md",
+    "conflict-files-obsidian-git.md",
     "Garden/System Pipeline.md",
     "Garden/Updated Hierarchical Clustering.md",
     "Garden/Topic modeling.md",

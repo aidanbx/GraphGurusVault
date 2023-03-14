@@ -11,12 +11,8 @@
             "id": "1cc3322fb52207bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph-guru.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "graph-guru.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,8 +142,8 @@
   },
   "active": "1cc3322fb52207bd",
   "lastOpenFiles": [
-    "src/tree.py",
     "graph-guru.md",
+    "src/tree.py",
     "Garden/System Pipeline.md",
     "Garden/Updated Hierarchical Clustering.md",
     "Garden/Topic modeling.md",

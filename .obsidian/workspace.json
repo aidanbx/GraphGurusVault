@@ -16,7 +16,19 @@
             }
           },
           {
-            "id": "05f52f617acb9969",
+            "id": "07bd69c89edd3e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph-guru.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ae6d3f81f44aad4",
             "type": "leaf",
             "state": {
               "type": "obsidian-leaflet-map-view",
@@ -24,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "graph-guru.md"
+              }
             }
           }
         ]
@@ -145,14 +161,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-graph-guru:Open GraphGuru": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05f52f617acb9969",
+  "active": "c72be7045c517903",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "graph-guru.md",
-    "src/tree.py",
     "Garden/System Pipeline.md",
     "Garden/Updated Hierarchical Clustering.md",
     "Garden/Topic modeling.md",
@@ -160,20 +175,6 @@
     "README.md",
     "Daily/2023-01-24.md",
     "src/istockphoto-1146986079-170667a.jpg",
-    "Garden/The Note Workflow.md",
-    "bin/Templates/Daily Note Template.md",
-    "src/Voronoi.ipynb",
-    "src/clusters.npy",
-    "src/clusters.npz",
-    "src/visualization.ipynb",
-    "src/reduced_embeddings_2d.csv",
-    "Garden/OpenAI Cookbook Example.md",
-    "Garden/Note Organization Schema.md",
-    "Garden/NLP for Categories - Vibe Maps.md",
-    "Garden/Kaanan Kharwa.md",
-    "Garden/Features and Requirements.md",
-    "Garden/Deadlines Etc..md",
-    "Garden/Closed List.md",
-    "Garden/Categorizing Hierarchical Clusters.md"
+    "Garden/The Note Workflow.md"
   ]
 }

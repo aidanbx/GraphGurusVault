@@ -19,12 +19,8 @@
             "id": "07bd69c89edd3e0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph-guru.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           },
           {

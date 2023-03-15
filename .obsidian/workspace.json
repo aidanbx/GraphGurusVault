@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph-guru.md",
+                "file": "src/graph-guru.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph-guru.md",
+                "file": "src/graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph-guru.md",
+                "file": "src/graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph-guru.md"
+                "file": "src/graph-guru.md"
               }
             }
           }
@@ -159,9 +159,10 @@
   },
   "active": "c72be7045c517903",
   "lastOpenFiles": [
-    "Images",
-    "src/voronoi_test.png",
-    "graph-guru.md",
+    "src/my-second-brain/Music theory/Scales/Harmonic Minor.md",
+    "src/graph-guru.md",
+    "Attachments",
+    "Attachments/voronoi_test.png",
     "src/my-second-brain/Ω Fleeting notes/202106172211 Focus isn't what we do but what we don't do.md",
     "conflict-files-obsidian-git.md",
     "Garden/System Pipeline.md",
@@ -170,7 +171,7 @@
     "Garden/Pipeline Integration.md",
     "README.md",
     "Daily/2023-01-24.md",
-    "src/istockphoto-1146986079-170667a.jpg",
+    "Attachments/istockphoto-1146986079-170667a.jpg",
     "Garden/The Note Workflow.md"
   ]
 }

@@ -1,6 +1,6 @@
 ```leaflet
 id: graph-guru-map
-image: [[voronoi_test.png]]
+image: [[voronoi.png]]
 height: 500px
 lat: 50
 long: 50
@@ -211,4 +211,5 @@ marker: default, -10.449616460753063, -1.2749818577588072, [[Rap Ta France - Jos
 darkMode: True
 ```
 
-![[voronoi_test.png]]
+![[voronoi.png]]
+asdasd

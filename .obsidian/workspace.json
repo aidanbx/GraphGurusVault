@@ -16,12 +16,14 @@
             }
           },
           {
-            "id": "dc994cc8bc5e6fe3",
+            "id": "dbb58a3d476e15f0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/voronoi(1).png"
+                "file": "src/graph-guru.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/voronoi(1).png",
+                "file": "src/graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/voronoi(1).png",
+                "file": "src/graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/voronoi(1).png"
+                "file": "src/graph-guru.md"
               }
             }
           }
@@ -155,11 +157,13 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "dc994cc8bc5e6fe3",
+  "active": "dbb58a3d476e15f0",
   "lastOpenFiles": [
+    "Garden/voronoi_test.png.md",
+    "src/graph-guru.md",
+    "Attachments/voronoi.png",
     "Attachments/voronoi_test.png",
     "Attachments/voronoi(1).png",
-    "src/graph-guru.md",
     "src/my-second-brain/Music theory/Scales/Harmonic Minor.md",
     "Attachments",
     "src/my-second-brain/Ω Fleeting notes/202106172211 Focus isn't what we do but what we don't do.md",

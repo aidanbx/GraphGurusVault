@@ -19,11 +19,9 @@
             "id": "dc994cc8bc5e6fe3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "src/graph-guru.md",
-                "mode": "preview",
-                "source": true
+                "file": "Attachments/voronoi(1).png"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/graph-guru.md",
+                "file": "Attachments/voronoi(1).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/graph-guru.md",
+                "file": "Attachments/voronoi(1).png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/graph-guru.md"
+                "file": "Attachments/voronoi(1).png"
               }
             }
           }
@@ -159,10 +157,11 @@
   },
   "active": "dc994cc8bc5e6fe3",
   "lastOpenFiles": [
-    "src/my-second-brain/Music theory/Scales/Harmonic Minor.md",
-    "src/graph-guru.md",
-    "Attachments",
     "Attachments/voronoi_test.png",
+    "Attachments/voronoi(1).png",
+    "src/graph-guru.md",
+    "src/my-second-brain/Music theory/Scales/Harmonic Minor.md",
+    "Attachments",
     "src/my-second-brain/Ω Fleeting notes/202106172211 Focus isn't what we do but what we don't do.md",
     "conflict-files-obsidian-git.md",
     "Garden/System Pipeline.md",

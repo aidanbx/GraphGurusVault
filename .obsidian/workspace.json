@@ -14,8 +14,21 @@
               "type": "obsidian-leaflet-map-view",
               "state": {}
             }
+          },
+          {
+            "id": "dc994cc8bc5e6fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph-guru.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "graph-guru.md"
+              }
             }
           }
         ]
@@ -140,8 +157,9 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "d6df289903e5d8a7",
+  "active": "dc994cc8bc5e6fe3",
   "lastOpenFiles": [
+    "src/my-second-brain/Ω Fleeting notes/202106172211 Focus isn't what we do but what we don't do.md",
     "graph-guru.md",
     "conflict-files-obsidian-git.md",
     "Garden/System Pipeline.md",

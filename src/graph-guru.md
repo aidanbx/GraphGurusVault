@@ -212,3 +212,17 @@ darkMode: false
 ```
 
 ![[voronoi.png]]
+```leaflet
+id: leaflet-map
+image: [[istockphoto-1146986079-170667a.jpg]]
+height: 500px
+lat: 50
+long: 50
+minZoom: 1
+maxZoom: 10
+defaultZoom: 5
+unit: meters
+scale: 1
+marker: default, 9.03610997521533, -0.444187381714536, [[Create a programming language.md]]
+darkMode: false
+```

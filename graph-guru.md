@@ -1,6 +1,6 @@
 ```leaflet
 id: graph-guru-map
-image: [[istockphoto-1146986079-170667a.jpg]]
+image: [[voronoi_test.png]]
 height: 500px
 lat: 50
 long: 50

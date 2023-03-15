@@ -24,7 +24,7 @@
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
-  "displayMarkerTooltips": "hover",
+  "displayMarkerTooltips": "always",
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,

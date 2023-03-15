@@ -225,4 +225,5 @@ unit: meters
 scale: 1
 marker: default, 9.03610997521533, -0.444187381714536, [[Create a programming language.md]]
 darkMode: false
+geojson: [[voronoi.]]
 ```

@@ -22,8 +22,8 @@
               "type": "markdown",
               "state": {
                 "file": "graph-guru.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }

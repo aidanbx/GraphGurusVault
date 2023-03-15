@@ -1,6 +1,6 @@
 ```leaflet
 id: graph-guru-map
-image: [[voronoi.png]]
+image: [[istockphoto-1146986079-170667a.jpg]]
 height: 500px
 lat: 50
 long: 50
@@ -208,21 +208,7 @@ marker: default, -4.456335872141171, -3.606625107784707, [[Plongées Autour Du M
 marker: default, -6.462667075457349, 0.20284615055104274, [[Encyclopédie Progressive Ou, Abrégé Des Sciences, Des Arts Et Des Connaissances Utiles (Tome II) - Mlle M. Forgame.md]]
 marker: default, -10.904958766527525, 0.20176140184011798, [[Les Voyages D'Ulysse - Mythologie.md]]
 marker: default, -10.449616460753063, -1.2749818577588072, [[Rap Ta France - José Louis Bocquet, Philippe Pierre Adolphe.md]]
-darkMode: True
+darkMode: false
 ```
 
 ![[voronoi.png]]
-```leaflet
-id: leaflet-map
-image: [[istockphoto-1146986079-170667a.jpg]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 5
-unit: meters
-scale: 1
-marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: false
-```

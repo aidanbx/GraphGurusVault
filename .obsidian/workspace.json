@@ -30,9 +30,19 @@
               "type": "obsidian-leaflet-map-view",
               "state": {}
             }
+          },
+          {
+            "id": "d6df289903e5d8a7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +167,7 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "0ae6d3f81f44aad4",
+  "active": "d6df289903e5d8a7",
   "lastOpenFiles": [
     "graph-guru.md",
     "conflict-files-obsidian-git.md",

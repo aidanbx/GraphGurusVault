@@ -1,6 +1,6 @@
 ### TO-DO To Get Conference Ready
 - [ ] Cleanup github, might have to make a new one
-- [ ] Streamline Obsidian plugin. Right now it's hacked together. User should be able to use with minimal effort
+- [ ] Streamline/Finish Obsidian plugin. Right now it's hacked together. User should be able to use with minimal effort
 - [ ] Write abstract
 
 ### Status: #🌱 (Incomplete, fledgling)

@@ -216,8 +216,8 @@ darkMode: false
 id: leaflet-map
 image: [[voronoi.png]]
 height: 500
-lat: 50
-long: 50
+lat: 0
+long: 0
 minZoom: 1
 maxZoom: 10
 defaultZoom: 5

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Aidan Barbieux.md",
+                "file": "src/graph-guru.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Aidan Barbieux.md",
+                "file": "src/graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Aidan Barbieux.md",
+                "file": "src/graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Aidan Barbieux.md"
+                "file": "src/graph-guru.md"
               }
             }
           }
@@ -159,13 +159,14 @@
   },
   "active": "c72be7045c517903",
   "lastOpenFiles": [
+    "Garden/Aidan Barbieux.md",
     "test_source",
     "Attachments/voronoi.geojson",
     "Attachments/voronoi copy.geojson",
     "src/voronoi copy.geojson",
     "src/graph-guru.md",
-    "Attachments/voronoi.png",
-    "Attachments/istockphoto-1146986079-170667a.jpg",
+    "test_source/voronoi.png",
+    "test_source/istockphoto-1146986079-170667a.jpg",
     "Garden/voronoi_test.png.md",
     "Attachments/voronoi_test.png",
     "Attachments/voronoi(1).png",

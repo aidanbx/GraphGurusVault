@@ -3,7 +3,7 @@
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#ccd912",
     "transform": {
       "size": 6,
       "x": 0,
@@ -24,7 +24,7 @@
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
-  "displayMarkerTooltips": "hover",
+  "displayMarkerTooltips": "always",
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,

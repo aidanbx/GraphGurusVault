@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cc3322fb52207bd",
+            "id": "d6df289903e5d8a7",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbb58a3d476e15f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph-guru.md",
+                "file": "src/graph-guru.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph-guru.md",
+                "file": "src/graph-guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph-guru.md",
+                "file": "src/graph-guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph-guru.md"
+                "file": "src/graph-guru.md"
               }
             }
           }
@@ -148,30 +157,33 @@
       "obsidian-graph-guru:Open GraphGuru": false
     }
   },
-  "active": "1cc3322fb52207bd",
+  "active": "dbb58a3d476e15f0",
   "lastOpenFiles": [
-    "graph-guru.md",
+    "Attachments/voronoi.png",
+    "Attachments/voronoi(3).png",
+    "Attachments/istockphoto-1146986079-170667a.jpg",
+    "test_source/voronoi(3).png",
+    "Garden/Aidan Barbieux.md",
+    "test_source",
+    "Attachments/voronoi.geojson",
+    "Attachments/voronoi copy.geojson",
+    "src/voronoi copy.geojson",
+    "src/graph-guru.md",
+    "test_source/voronoi.png",
+    "test_source/istockphoto-1146986079-170667a.jpg",
+    "Garden/voronoi_test.png.md",
+    "Attachments/voronoi_test.png",
+    "Attachments/voronoi(1).png",
+    "src/my-second-brain/Music theory/Scales/Harmonic Minor.md",
+    "Attachments",
+    "src/my-second-brain/Ω Fleeting notes/202106172211 Focus isn't what we do but what we don't do.md",
+    "conflict-files-obsidian-git.md",
     "Garden/System Pipeline.md",
     "Garden/Updated Hierarchical Clustering.md",
     "Garden/Topic modeling.md",
     "Garden/Pipeline Integration.md",
     "README.md",
     "Daily/2023-01-24.md",
-    "src/istockphoto-1146986079-170667a.jpg",
-    "Garden/The Note Workflow.md",
-    "bin/Templates/Daily Note Template.md",
-    "src/Voronoi.ipynb",
-    "src/clusters.npy",
-    "src/clusters.npz",
-    "src/visualization.ipynb",
-    "src/reduced_embeddings_2d.csv",
-    "Garden/OpenAI Cookbook Example.md",
-    "Garden/Note Organization Schema.md",
-    "Garden/NLP for Categories - Vibe Maps.md",
-    "Garden/Kaanan Kharwa.md",
-    "Garden/Features and Requirements.md",
-    "Garden/Deadlines Etc..md",
-    "Garden/Closed List.md",
-    "Garden/Categorizing Hierarchical Clusters.md"
+    "Garden/The Note Workflow.md"
   ]
 }

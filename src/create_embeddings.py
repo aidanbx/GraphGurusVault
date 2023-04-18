@@ -10,7 +10,8 @@ from tenacity import (
     wait_random_exponential,
 )  # for exponential backoff
 
-openai.api_key = os.environ["OPENAI_API_KEY"]
+#openai.api_key = os.environ["OPENAI_API_KEY"]
+openai.api_key = "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"
 
 # tenacity helps with rate limits
 # checkout here: https://github.com/openai/openai-cookbook/blob/main/examples/How_to_handle_rate_limits.ipynb
